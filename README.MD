@@ -1,4 +1,4 @@
-<h3>*****************TRAVEAUX PRATIQUES WEBSERVICES "Banque "*****************</h3>
+<h3>*****************TRAVAUX PRATIQUES WEBSERVICES "Banque "*****************</h3>
 
 <h2>*************************COMPTE RENDU*************************</h2>
 <img src="captures/Capture d'écran 2023-12-25 213546.png">
